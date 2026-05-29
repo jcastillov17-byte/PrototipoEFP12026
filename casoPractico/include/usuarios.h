@@ -6,8 +6,7 @@ using namespace std;
 class usuarios
 {
      public:
-        usuarios();
-        virtual ~usuarios();
+        //usuarios();
         bool loginUsuarios();
         void menuUsuarios();
         bool buscar(string user, string passw);
