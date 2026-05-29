@@ -1,3 +1,31 @@
+commit 80662e0d760a1e163fd7578c68e4edbe9a2cda7c
+Merge: 29737dc 7182597
+Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 12:22:09 2026 -0600
+
+    Areglando Problemas
+
+commit 29737dcbeebca8f67bdd3d6205cb0752c5865d4f
+Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 11:01:03 2026 -0600
+
+    Subiendo bitacora de commits
+
+commit 71825973cdf184057a9cee0f76ef05988f202fbb
+Merge: ff7f4bd f8efaf8
+Author: Fernando Castillo <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 10:58:27 2026 -0600
+
+    Merge pull request #2 from jcastillov17-byte/Rama_Crud_Catalago_Bodega_9959_25_288
+    
+    Subiendo Catalagos
+
+commit f8efaf8d4ebd3f09e1e7662e7c00eadf43193854
+Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 10:57:43 2026 -0600
+
+    Subiendo Catalagos
+
 commit ff7f4bd11b2745a1b95a56766de1abc5c64e6293
 Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
 Date:   Fri May 29 10:10:12 2026 -0600
