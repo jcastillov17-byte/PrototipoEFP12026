@@ -1,0 +1,26 @@
+commit ff7f4bd11b2745a1b95a56766de1abc5c64e6293
+Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 10:10:12 2026 -0600
+
+    Arrelando layaout
+
+commit 90221d3426810eb69228c45a13df9bb0056be9f7
+Merge: e2f727b 93135fb
+Author: Fernando Castillo <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 10:08:31 2026 -0600
+
+    Merge pull request #1 from jcastillov17-byte/Rama_Menu_General_9959-25-288
+    
+    Subiendo menu princpial con usuarios y login
+
+commit 93135fb5ab4486d526558bb9c773c5032e34f1ec
+Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 10:02:57 2026 -0600
+
+    Subiendo menu princpial con usuarios y login
+
+commit e2f727b7377ab89753ba1c95e6c729ec41f62038
+Author: jcastillov17-byte <jcastillov17@miumg.edu.gt>
+Date:   Fri May 29 09:44:28 2026 -0600
+
+    Creando Proyecto
