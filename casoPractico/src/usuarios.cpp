@@ -1,5 +1,8 @@
 #include "usuarios.h"
-
+#include <fstream>
+#include<cstdlib>
+#include<conio.h>
+#include<iostream>
 #define USER "usuario"
 #define PASS "1234"
 

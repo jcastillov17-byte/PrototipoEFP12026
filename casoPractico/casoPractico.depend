@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1780073093 source:c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\src\bodega.cpp
+	"bodega.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+
+1780072388 c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\include\bodega.h
+	<iostream>
+
+1780073125 c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\include\bitacora.h
+	<iostream>
+
+1780072350 source:c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1780073662 source:c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"usuarios.h"
+	"Login.h"
+	"bitacora.h"
+
+1780073711 c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\include\usuarios.h
+	<iostream>
+
+1780073275 c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1780073615 source:c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1780073473 source:c:\users\fcast\onedrive\documentos\tercer semestre\programaci”n i\prototipoefp12026\casopractico\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
