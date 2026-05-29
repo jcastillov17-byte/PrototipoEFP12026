@@ -3,6 +3,7 @@
 #include <conio.h>
 #include "usuarios.h"
 #include "Login.h"
+#include "bitacora.h"
 
 using namespace std;
 
@@ -13,7 +14,7 @@ void procesos();
 void ayuda();
 void seguridad();
 string codigoPrograma="1";
-Bitacora Auditoria;
+bitacora Auditoria;
 string user, contrasena;
 
 int main()
@@ -66,7 +67,7 @@ void menuGeneral()
             seguridad();
             break;
         case 4:
-            Auditoria.ingresoBitacora(user,codigoPrograma,"LGO"); //llamada para registrar la bitacora de seguridad
+            Auditoria.insertar(user,codigoPrograma,"LGO"); //llamada para registrar la bitacora de seguridad
             exit(0);
             break;
         default:
@@ -172,7 +173,7 @@ void ayuda()
 void seguridad()
 {
     // Implementacion de seguridad
-    Bitacora Auditoria;
-    Auditoria.visualizarBitacora();
+    bitacora Auditoria;
+    Auditoria.desplegar();
 }
 
